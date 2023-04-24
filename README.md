@@ -1,15 +1,10 @@
 
 # 👋 Hello, I'm [Sudhi](https://sudhi001.github.io/)!
 
-- A dynamic professional with 10 + years of experience in Android, iOS, Web, Desktop Development under various projects like GenKey, HealthCompanion, TeleveroHealth, Wingman etc..
-- Good analytical abilities and clear understanding of Java coding standers, design patterns, software development life cycle, Architectural design, and Other aspects of Agile Software development.
-- Demonstrated leadership strengths and proven ability to manage multiple responsibilities in a fast-paced environment with critical deadlines. Works well independently as well as collaboratively in a team setting. Proven ability to ‘think outside the box’ in identifying problems and implementing innovative solutions etc are some of my key skills.
-- Experience in building backend API with Spring Frameworks, Flask, Node js etc..
-- Experience in developing client side application for all major platforms like iOS, Android, Mac, Windows etc..
-- Well known experience in client side security and code Evaluation 
-- Work with all major client side and server side databases (Mongo, Mysql, Oracle, PGSQL,Realm, SQLite, Hive..etc. ). 
-- Always prefer to integrate CI & CD for all platform to more productive work.
-- Experience in REST API performance analysis.
-- Have Experience in Struts UI Component development 
-- Most of the projects are using TDD architecture.
-- 2+ year experience in developing Tele Health application with HIPPA Complaints.
+I am an accomplished software developer with over 11 years of experience in Android, iOS, Web, and Desktop development, having worked on a variety of projects such as GenKey, HealthCompanion, TeleveroHealth, and Wingman. My expertise includes strong analytical abilities and a clear understanding of Java coding standards, design patterns, software development life cycle, architectural design, and other aspects of Agile software development.
+
+In addition, I possess strong leadership skills, as demonstrated by my ability to manage multiple responsibilities in a fast-paced environment with critical deadlines. I am equally comfortable working independently or collaboratively in a team setting, and I have a proven ability to think outside the box in identifying problems and implementing innovative solutions.
+
+My experience extends to building backend APIs with Spring Frameworks, Flask, Node.js, and other tools. I have also developed client-side applications for major platforms like iOS, Android, Mac, and Windows. I have extensive experience in client-side security and code evaluation, and I am well-versed in working with major client-side and server-side databases such as Mongo, MySQL, Oracle, PGSQL, Realm, SQLite, and Hive.
+
+I am committed to integrating continuous integration and continuous delivery (CI/CD) processes to ensure more productive work. I also have experience in REST API performance analysis and have developed Struts UI components. Most of my projects have followed the Test-Driven Development (TDD) architecture, and I have 5+ years of experience in developing Tele Health applications with HIPPA Complaints compliance.
