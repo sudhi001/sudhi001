@@ -18,8 +18,6 @@ Beyond coding, I am deeply committed to creating impactful and meaningful soluti
 
 For me, **software development** isn’t just a profession—it's a lifelong passion and a way to bring ideas to life, solve real-world problems, and leave a meaningful mark in the world of technology.
 
----
-
 ## Skills
 
 | **Category**                    | **Skills**                                                                                                                                                                                                                                                                 |
@@ -44,9 +42,6 @@ For me, **software development** isn’t just a profession—it's a lifelong pas
 
 
 
-
----
-
 ## Employment History
 
 | **Position**                               | **Company**               | **Duration**    | **Responsibilities**                                                                                                                                                                      |
@@ -54,47 +49,21 @@ For me, **software development** isn’t just a profession—it's a lifelong pas
 | **Technical Architect**                    | Stabilix Solutions         | 2013 – Present  | - Created numerous projects across Healthcare, Insurance, and Identity Management domains. <br> - Proficient in Android, iOS, and Web application development, deployment, and testing. <br> - Architected technologies including Big Data analysis, Chat Frameworks with VOIP, recommendation engine algorithms, and more. <br> - Developed cross-platform applications using Flutter for Android, iOS, Web, and desktop. <br> - Engaged in Machine Learning-driven applications. |
 | **Software Engineer**                      | Zayan Infotech, India     | 2012 – 2013     | - Managed projects in Hospitality, Education, and Utility Development. <br> - Performed as a Full Stack Developer and contributed to open source projects. <br> - Led system integration testing.                        |
 
----
 
 ## Open Source Projects
 
-### [Android MacroBenchmarkViewer](https://github.com/sudhi001/AndroidMacroBenchmarkViewer)
-An open-source tool to visualize Android microbenchmark data directly in your browser.
-
-### [crypto_utils](https://github.com/sudhi001/crypto_utils)
-A Go package to simplify cryptographic operations like RSA key generation, encryption/decryption, and encoding/decoding of keys.
-
-### [flutter_crypto_security](https://github.com/sudhi001/flutter_crypto_security)
-A Flutter package for encryption and decryption using RSA and AES algorithms, with built-in signature verification.
-
-### [Remote Logger For Mobile Developers](https://github.com/sudhi001/logger_server)
-A remote logging console application for mobile developers to view logs from the server.
-
-### [SFormUI](https://github.com/sudhi001/sfromui)
-A React project to dynamically create a form UI wizard from JSON data.
-
-### [SmartIOTConnect](https://github.com/sudhi001/SmartIOTConnect)
-A Flutter app that connects IoT devices (ESP32) via Bluetooth and configures Wi-Fi settings.
-
-### [SmartTerrarium](https://github.com/sudhi001/SmartTerrarium)
-An IoT-based project to automate watering in a terrarium based on temperature and soil humidity.
-
-### [Toml To Android Strings.xml](https://plugins.jetbrains.com/plugin/24122-toml-to-android-strings-xml)
-A plugin to convert TOML files into Android `strings.xml` files.
-
-### [HL7 to JSON Parser](https://github.com/sudhi001/HL7_TO_JSON_WITH_FAST_API)
-A secure HL7 message parsing solution to ensure compliance with HIPAA regulations.
-
-### [FormStack](https://pub.dev/packages/formstack)
-A Flutter tool for creating dynamic user interfaces.
-
-### [Couchbase Lite Java Plug (JavaFX Plugin)](https://github.com/sudhi001/couchbase-lite-java-plug)
-Integrates Couchbase Lite 1.X or Nitrite DB with JavaFX applications.
-
-### [Bismillah (Islamic Prayer Time App)](https://github.com/sudhi001/Bismillah)
-A user-friendly app for managing Islamic prayer times.
-
-### [UIGridView](https://github.com/sudhi001/UIGridView)
-An Android library for efficiently managing memory in list view adapters.
-
-
+| **Project** | **Description** | **Link** |
+|-------------|-----------------|----------|
+| [Android MacroBenchmarkViewer](https://github.com/sudhi001/AndroidMacroBenchmarkViewer) | An open-source tool to visualize Android microbenchmark data directly in your browser. | [GitHub](https://github.com/sudhi001/AndroidMacroBenchmarkViewer) |
+| [crypto_utils](https://github.com/sudhi001/crypto_utils) | A Go package to simplify cryptographic operations like RSA key generation, encryption/decryption, and encoding/decoding of keys. | [GitHub](https://github.com/sudhi001/crypto_utils) |
+| [flutter_crypto_security](https://github.com/sudhi001/flutter_crypto_security) | A Flutter package for encryption and decryption using RSA and AES algorithms, with built-in signature verification. | [GitHub](https://github.com/sudhi001/flutter_crypto_security) |
+| [Remote Logger For Mobile Developers](https://github.com/sudhi001/logger_server) | A remote logging console application for mobile developers to view logs from the server. | [GitHub](https://github.com/sudhi001/logger_server) |
+| [SFormUI](https://github.com/sudhi001/sfromui) | A React project to dynamically create a form UI wizard from JSON data. | [GitHub](https://github.com/sudhi001/sfromui) |
+| [SmartIOTConnect](https://github.com/sudhi001/SmartIOTConnect) | A Flutter app that connects IoT devices (ESP32) via Bluetooth and configures Wi-Fi settings. | [GitHub](https://github.com/sudhi001/SmartIOTConnect) |
+| [SmartTerrarium](https://github.com/sudhi001/SmartTerrarium) | An IoT-based project to automate watering in a terrarium based on temperature and soil humidity. | [GitHub](https://github.com/sudhi001/SmartTerrarium) |
+| [Toml To Android Strings.xml](https://plugins.jetbrains.com/plugin/24122-toml-to-android-strings-xml) | A plugin to convert TOML files into Android `strings.xml` files. | [Plugin](https://plugins.jetbrains.com/plugin/24122-toml-to-android-strings-xml) |
+| [HL7 to JSON Parser](https://github.com/sudhi001/HL7_TO_JSON_WITH_FAST_API) | A secure HL7 message parsing solution to ensure compliance with HIPAA regulations. | [GitHub](https://github.com/sudhi001/HL7_TO_JSON_WITH_FAST_API) |
+| [FormStack](https://pub.dev/packages/formstack) | A Flutter tool for creating dynamic user interfaces. | [Pub.dev](https://pub.dev/packages/formstack) |
+| [Couchbase Lite Java Plug (JavaFX Plugin)](https://github.com/sudhi001/couchbase-lite-java-plug) | Integrates Couchbase Lite 1.X or Nitrite DB with JavaFX applications. | [GitHub](https://github.com/sudhi001/couchbase-lite-java-plug) |
+| [Bismillah (Islamic Prayer Time App)](https://github.com/sudhi001/Bismillah) | A user-friendly app for managing Islamic prayer times. | [GitHub](https://github.com/sudhi001/Bismillah) |
+| [UIGridView](https://github.com/sudhi001/UIGridView) | An Android library for efficiently managing memory in list view adapters. | [GitHub](https://github.com/sudhi001/UIGridView) |
