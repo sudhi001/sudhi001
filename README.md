@@ -2,6 +2,7 @@
 Here’s the updated single line with links to both your Bluesky and LinkedIn profiles:
 
 ![Experience](https://img.shields.io/badge/Experience-12%2B%20Years-blue?style=flat&logo=medal&logoColor=white) ![Location](https://img.shields.io/badge/Location-Trivandrum,%20Kerala,%20India-green?style=flat&logo=map-pin&logoColor=white) ![Company](https://img.shields.io/badge/Company-Stabilix%20Solutions%20Pvt.%20Ltd.-purple?style=flat&logo=briefcase&logoColor=white) [![Bluesky](https://img.shields.io/badge/Bluesky-Profile-blue?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/sudhis.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhis) 
+[![X](https://img.shields.io/badge/X-Profile-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/su_dhi)  
 
 ## About Me
 
