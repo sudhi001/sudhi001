@@ -49,21 +49,10 @@ For me, **software development** isn’t just a profession—it's a lifelong pas
 
 ## Employment History
 
-### **Technical Architect, Stabilix Solutions**  
-*2013 – Present*
-
-- Created numerous projects across Healthcare, Insurance, and Identity Management domains.
-- Proficient in Android, iOS, and Web application development, along with deployment, testing, and project management.
-- Architected diverse technologies including Big Data analysis, Chat Frameworks with VOIP capabilities, recommendation engine algorithms, and more.
-- Developed cross-platform applications using Flutter, for Android, iOS, Web, and desktop platforms.
-- Actively engaged in the development of Machine Learning-driven applications.
-
-### **Software Engineer, Zayan Infotech, India**  
-*2012 – 2013*
-
-- Managed projects in Hospitality, Education, and Utility Development.
-- Performed as a Full Stack Developer and contributed to open source projects.
-- Led system integration testing.
+| **Position**                               | **Company**               | **Duration**    | **Responsibilities**                                                                                                                                                                      |
+|--------------------------------------------|---------------------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Technical Architect**                    | Stabilix Solutions         | 2013 – Present  | - Created numerous projects across Healthcare, Insurance, and Identity Management domains. <br> - Proficient in Android, iOS, and Web application development, deployment, and testing. <br> - Architected technologies including Big Data analysis, Chat Frameworks with VOIP, recommendation engine algorithms, and more. <br> - Developed cross-platform applications using Flutter for Android, iOS, Web, and desktop. <br> - Engaged in Machine Learning-driven applications. |
+| **Software Engineer**                      | Zayan Infotech, India     | 2012 – 2013     | - Managed projects in Hospitality, Education, and Utility Development. <br> - Performed as a Full Stack Developer and contributed to open source projects. <br> - Led system integration testing.                        |
 
 ---
 
