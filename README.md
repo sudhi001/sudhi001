@@ -1,10 +1,7 @@
-# Sudhi S - Technical Architect
-
-**12+ years of experience in Healthcare, Insurance, and Identity Management**  
-**Stabilix Solutions Pvt. Ltd.**  
-Trivandrum, Kerala, India  
-
----
+# Sudhi S - Technical Architect  
+![Experience](https://img.shields.io/badge/Experience-12%2B%20Years-blue?style=flat&logo=medal&logoColor=white)  
+![Location](https://img.shields.io/badge/Location-Trivandrum,%20Kerala,%20India-green?style=flat&logo=map-pin&logoColor=white)  
+![Company](https://img.shields.io/badge/Company-Stabilix%20Solutions%20Pvt.%20Ltd.-purple?style=flat&logo=briefcase&logoColor=white)
 
 ## About Me
 
@@ -69,3 +66,8 @@ For me, **software development** isn’t just a profession—it's a lifelong pas
 | [Couchbase Lite Java Plug (JavaFX Plugin)](https://github.com/sudhi001/couchbase-lite-java-plug) | Integrates Couchbase Lite 1.X or Nitrite DB with JavaFX applications. | [GitHub](https://github.com/sudhi001/couchbase-lite-java-plug) |
 | [Bismillah (Islamic Prayer Time App)](https://github.com/sudhi001/Bismillah) | A user-friendly app for managing Islamic prayer times. | [GitHub](https://github.com/sudhi001/Bismillah) |
 | [UIGridView](https://github.com/sudhi001/UIGridView) | An Android library for efficiently managing memory in list view adapters. | [GitHub](https://github.com/sudhi001/UIGridView) |
+
+## 📫 **Contact Me**
+- **Email**: devsudhi@icloud.com 
+- **GitHub**: [github.com/sudhi001](https://github.com/sudhi001)  
+- **LinkedIn**: [linkedin.com/in/sudhi001](https://linkedin.com/in/sudhi001)
