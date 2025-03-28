@@ -5,7 +5,7 @@
 
 ## About Me
 
-I am an innovative and versatile **Technical Architect** with over **12 years of extensive experience** in developing and designing solutions across various domains, including **Healthcare**, **Insurance**, and **Identity Management**. My journey in the tech world started with **mobile application development** and gradually expanded into **backend architecture**, **big data systems**, and **AI-driven applications**.
+I am an innovative and versatile **Technical Architect** with over **13 years of extensive experience** in developing and designing solutions across various domains, including **Healthcare**, **Insurance**, and **Identity Management**. My journey in the tech world started with **mobile application development** and gradually expanded into **backend architecture**, **big data systems**, and **AI-driven applications**.
 
 I thrive on solving complex challenges, whether it's architecting cross-platform solutions, integrating cutting-edge technologies, or optimizing user experiences. Starting as an **Android developer**, I embraced the challenge of learning **iOS development** to meet project demands, eventually mastering multiple mobile and desktop platforms. My passion for technology led me to explore **backend systems**, culminating in the development of high-performance applications, including **real-time communication systems**, **video conferencing platforms**, and **data-intensive analytics solutions**.
 
