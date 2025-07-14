@@ -68,6 +68,6 @@ For me, **software development** isn’t just a profession—it's a lifelong pas
 | [UIGridView](https://github.com/sudhi001/UIGridView) | An Android library for efficiently managing memory in list view adapters. | [GitHub](https://github.com/sudhi001/UIGridView) |
 
 ## 📫 **Contact Me**
-- **Email**: devsudhi@icloud.com 
+- **Email**: sudhis@live.com 
 - **GitHub**: [github.com/sudhi001](https://github.com/sudhi001)  
 - **LinkedIn**: [linkedin.com/in/sudhi001](https://linkedin.com/in/sudhi001)
