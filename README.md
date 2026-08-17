@@ -49,7 +49,7 @@ Persistent key-value storage for Flutter backed by **Android Jetpack DataStore**
 JetBrains Marketplace plugin that converts TOML localisation files into Android string resources. Companion Flutter widget: [toml_viewer](https://pub.dev/packages/toml_viewer).
 
 ### 🔐 [flutter_crypto_security](https://github.com/sudhi001/flutter_crypto_security) + [crypto_utils](https://github.com/sudhi001/crypto_utils) · Dart & Go
-Matched client and server halves of one crypto contract — RSA/AES encryption with signature verification, [verified by a cross-platform test harness](https://github.com/sudhi001/encryption_cross_platform_test_flutter_go).
+Matched client and server halves of one crypto contract — RSA/AES encryption with signature verification, [verified by a cross-platform test harness](https://github.com/sudhi001/encryption_cross_platform_test_flutter_golang).
 
 ### 🌱 [SmartTerrarium](https://github.com/sudhi001/SmartTerrarium) + [SmartIOTConnect](https://github.com/sudhi001/SmartIOTConnect) · C++ & Dart
 ESP32 terrarium automation driven by temperature and soil humidity, plus the Flutter app that provisions it over BLE. Firmware and companion app built as one system. See also [L_Spectra_Guardian](https://github.com/sudhi001/L_Spectra_Guardian), an ESP8266 air-quality and proximity monitor.
