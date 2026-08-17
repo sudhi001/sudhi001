@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Sudhi S — Technical Architect, healthcare, insurance and identity systems">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0.35" y2="1"><stop offset="0" stop-color="#131a23"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2dd4bf"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+<linearGradient id="rulegrad" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2dd4bf"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0.34" stop-color="#fff" stop-opacity="0"/><stop offset="0.58" stop-color="#fff" stop-opacity="1"/><stop offset="0.88" stop-color="#fff" stop-opacity="1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<mask id="edge"><rect width="1000" height="240" fill="url(#fade)"/></mask>
+<clipPath id="card"><rect width="1000" height="240" rx="8"/></clipPath>
+</defs>
+<g clip-path="url(#card)">
+<rect width="1000" height="240" fill="url(#bg)"/>
+<g mask="url(#edge)" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="12" fill="#8b9bb0" opacity="0.085">
+<text x="330" y="18" xml:space="preserve">MSH|^~\&amp;|EPIC|MERCY|LAB|MERCY|20260817||ADT^A01|MSG00001|P|2.5|||AL|NE|USA</text>
+<text x="312" y="39" xml:space="preserve">PID|1||123456^^^MERCY^MR||Smith^John^A^^Mr||19850312|M|||12 Oak St^^Austin^TX</text>
+<text x="294" y="60" xml:space="preserve">PV1|1|I|ICU^301^01||||1234^Attending^Doc|||||||||||V02|||||||||||20260817</text>
+<text x="276" y="81" xml:space="preserve">OBX|1|NM|8867-4^Heart rate^LN||72|/min|60-100|N|||F||||20260817||LAB^Lab</text>
+<text x="330" y="102" xml:space="preserve">AL1|1|DA|Z88.0^Penicillin allergy^I10|SV|Anaphylaxis|20240115||||||||||||||</text>
+<text x="312" y="123" xml:space="preserve">MSH|^~\&amp;|LIS|MERCY|EMR|MERCY|20260817||ORU^R01|MSG00042|P|2.5|||NE|AL|USA</text>
+<text x="294" y="144" xml:space="preserve">NK1|1|Smith^Jane^^^Mrs|SPO^Spouse^HL70063||555-0102|||||||||||||||||||||||</text>
+<text x="276" y="165" xml:space="preserve">ORC|RE|ORD9981^EMR|FILL5521^LIS||CM||||20260817|||1234^Attending^Doc|||||</text>
+<text x="330" y="186" xml:space="preserve">MSH|^~\&amp;|EPIC|MERCY|LAB|MERCY|20260817||ADT^A01|MSG00001|P|2.5|||AL|NE|USA</text>
+<text x="312" y="207" xml:space="preserve">PID|1||123456^^^MERCY^MR||Smith^John^A^^Mr||19850312|M|||12 Oak St^^Austin^TX</text>
+<text x="294" y="228" xml:space="preserve">PV1|1|I|ICU^301^01||||1234^Attending^Doc|||||||||||V02|||||||||||20260817</text>
+</g>
+<rect x="0" y="0" width="4" height="240" fill="url(#accent)"/>
+<text x="52" y="104" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="54" font-weight="700" letter-spacing="-1.4" fill="#e9eef5">Sudhi S</text>
+<rect x="54" y="122" width="64" height="3" rx="1.5" fill="url(#rulegrad)"/>
+<text x="52" y="156" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="19" font-weight="600" fill="#c2ccd8">Technical Architect</text>
+<text x="52" y="180" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="12.5" fill="#7d8b9a" xml:space="preserve">healthcare · insurance · identity</text>
+<rect x="52" y="190" width="86" height="25" rx="12.5" fill="#161d27" stroke="#2a3341"/><text x="95.0" y="207" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="11" fill="#a9b6c4">14+ years</text>
+<rect x="147" y="190" width="113" height="25" rx="12.5" fill="#161d27" stroke="#2a3341"/><text x="203.5" y="207" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="11" fill="#a9b6c4">Kerala, India</text>
+<rect x="269" y="190" width="153" height="25" rx="12.5" fill="#161d27" stroke="#2a3341"/><text x="345.5" y="207" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="11" fill="#a9b6c4">Flutter · Rust · Go</text>
+</g>
+<rect x="0.5" y="0.5" width="999" height="239" rx="8" fill="none" stroke="#2a3341"/>
+</svg>
