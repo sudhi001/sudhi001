@@ -20,7 +20,7 @@ I build systems end to end — Flutter and native mobile clients, the JVM/Go/Pyt
 
 Technical Architect at **[Stabilix Solutions](https://www.stabilix.com)** since 2013, working from Trivandrum, Kerala.
 
-> **Currently** — HL7 v2 developer tooling in Rust, native-backed Flutter storage plugins, and Go service libraries. Distributed through Homebrew and pub.dev.
+> **Currently** — DartRosa, a Dart and Flutter port of the ODK XForms engine; HL7 v2 developer tooling in Rust; native-backed Flutter storage plugins and Go service libraries. Distributed through Homebrew and pub.dev.
 
 <br>
 
@@ -44,6 +44,21 @@ brew install sudhi001/tap/hl7probe
 </td>
 <td width="50%" valign="top">
 
+### [DartRosa](https://github.com/sudhi001/dartrosa)
+<sub>**Dart** · Flutter · Apache-2.0</sub>
+
+[![pub](https://img.shields.io/pub/v/dartrosa?style=flat-square&logo=dart&logoColor=white&color=0D9488)](https://pub.dev/packages/dartrosa)
+[![points](https://img.shields.io/pub/points/dartrosa?style=flat-square&color=0284C7)](https://pub.dev/packages/dartrosa/score)
+
+A faithful port of **JavaRosa**, the XForms engine inside ODK Collect, plus a Flutter form renderer. ODK forms behave exactly as in Collect on Android, iOS, web, desktop and servers.
+
+Checked against real JavaRosa traces on 401 conformance forms — zero differences. Eight packages: entities, encryption, OpenRosa, calendars and more.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### [FormStack](https://pub.dev/packages/formstack)
 <sub>**Dart** · Flutter package</sub>
 
@@ -54,8 +69,6 @@ brew install sudhi001/tap/hl7probe
 A cross-platform **ResearchKit and ODK alternative** for Flutter. Build dynamic forms and surveys across 35 input types from a declarative spec instead of hand-written screens.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [native_datastore](https://pub.dev/packages/native_datastore)
@@ -70,6 +83,8 @@ Persistent key-value storage backed by **Android Jetpack DataStore** and **iOS U
 [Documentation site](https://sudhi001.github.io/native_datastore/) · wiki guides · security policy
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [TOML → Android strings.xml](https://plugins.jetbrains.com/plugin/24122-toml-to-android-strings-xml)
@@ -82,24 +97,12 @@ IDE plugin that converts TOML localisation files into Android string resources, 
 Companion widget: [toml_viewer](https://pub.dev/packages/toml_viewer) renders TOML as an interactive tree in Flutter.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [flutter_crypto_security](https://github.com/sudhi001/flutter_crypto_security) + [crypto_utils](https://github.com/sudhi001/crypto_utils)
 <sub>**Dart** and **Go**</sub>
 
 Matched client and server halves of a single crypto contract — RSA/AES encryption with signature verification, proven against each other by a [cross-platform test harness](https://github.com/sudhi001/encryption_cross_platform_test_flutter_golang).
-
-</td>
-<td width="50%" valign="top">
-
-### [SmartTerrarium](https://github.com/sudhi001/SmartTerrarium) + [SmartIOTConnect](https://github.com/sudhi001/SmartIOTConnect)
-<sub>**C++** and **Dart** · ESP32</sub>
-
-Terrarium irrigation driven by temperature and soil humidity, plus the Flutter app that provisions the board over BLE — firmware and companion app designed as one system.
-
-See also [L_Spectra_Guardian](https://github.com/sudhi001/L_Spectra_Guardian), an ESP8266 air-quality and proximity monitor.
 
 </td>
 </tr>
@@ -120,6 +123,10 @@ See also [L_Spectra_Guardian](https://github.com/sudhi001/L_Spectra_Guardian), a
 - [AndroidMacroBenchmarkViewer](https://github.com/sudhi001/AndroidMacroBenchmarkViewer) — visualise Android macrobenchmark output in the browser
 - [logger_server](https://github.com/sudhi001/logger_server) — remote logging console for mobile developers
 - [SFormUI](https://github.com/sudhi001/sfromui) — React form-wizard UI generated from JSON
+
+**IoT**
+- [SmartTerrarium](https://github.com/sudhi001/SmartTerrarium) + [SmartIOTConnect](https://github.com/sudhi001/SmartIOTConnect) — ESP32 terrarium irrigation driven by temperature and soil humidity, with a Flutter app that provisions the board over BLE
+- [L_Spectra_Guardian](https://github.com/sudhi001/L_Spectra_Guardian) — ESP8266 air-quality and proximity monitor
 
 **Earlier work**
 - [couchbase-lite-java-plug](https://github.com/sudhi001/couchbase-lite-java-plug) — Couchbase Lite / Nitrite DB integration for JavaFX
